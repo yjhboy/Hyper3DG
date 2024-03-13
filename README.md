@@ -15,6 +15,16 @@ Abstract: *Text-to-3D generation represents an exciting field that has seen rapi
 ![A DSLR Photo of a bloody lion with sharp tooth](./contents/a_bloody_lion_with_sharp_tooth.gif)
 ![A pair of green headphones](./contents/a_pair_of_green_headphones.gif)
 
+<div style="overflow:auto">
+    <div style="float:left;width:49%">
+        <img src="./contents/a_bald_eagle.gif" alt="A DSLR Photo of a bald eagle" style="width:100%">
+    </div>
+    <div style="float:right;width:49%">
+        <img src="./contents/a_bloody_lion_with_sharp_tooth.gif" alt="A DSLR Photo of a bloody lion with sharp tooth" style="width:100%">
+    </div>
+</div>
+
+
 <!-- 
 <video controls> <source src="contents/a_bald_eagle.mp4" type="video/mp4"> NO! </video> -->
 
