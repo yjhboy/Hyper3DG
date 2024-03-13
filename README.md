@@ -10,8 +10,6 @@ Abstract: *Text-to-3D generation represents an exciting field that has seen rapi
 ![Hyper-3DG framework](contents/fig_framework.png)
 
 ## Video results
-https://github.com/yjhboy/Hyper-3DG/blob/main/contents/a_bald_eagle.mp4
-
 
 ![A DSLR Photo of a bald eagle](./contents/a_bald_eagle.gif)
 ![A DSLR Photo of a bloody lion with sharp tooth](./contents/a_bloody_lion_with_sharp_tooth.gif)
