@@ -1,11 +1,8 @@
 <div align="center">
 
 # Hyper-3DG: Text-to-3D Gaussian Generation via Hypergraph
-
 ##### Authors: Donglin Di, Jiahui Yang, Chaofan Luo, Zhou Xue, Wei Chen, Xun Yang, Yue Gao
-
 ##### Affiliations: Li Auto Space AI, School of Software (Tsinghua University), School of Information Science and Technology (University of Science and Technology of China), Harbin Institute of Technology
-
 #### [Full Paper](https://www.researchsquare.com/article/rs-4084374/v1)
 
 Hyper-3DG pioneers a novel framework for text-to-3D generation that seamlessly integrates hypergraph learning with 3D Gaussian splatting, achieving high-fidelity and structurally coherent 3D models from textual descriptions without compromising computational efficiency.
