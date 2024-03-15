@@ -48,12 +48,15 @@
 ![An apple](./contents/an_apple.gif)
 
 #### flamethrower, with fire, scifi, cyberpunk, photorealistic, 8K, HD
-![flamethrower, with fire, scifi, cyberpunk, photorealistic, 8K, HD](./contents/a_flamethrower.gif)
+![](./contents/a_flamethrower.gif)
 
+#### A DSLR photo of a corgi
+![](./contents/a_corgi.gif)
 
+#### A classic packard car
+![flamethrower, with fire, scifi, cyberpunk, photorealistic, 8K, HD](./contents/a_packard_car.gif)
+<!-- <video src="https://github.com/yjhboy/Hyper3DG/contents/a_basketball.mp4" width="640" height="480" controls></video> -->
 
-<!-- 
-<video controls> <source src="contents/a_bald_eagle.mp4" type="video/mp4"> NO! </video> -->
 
 # Citation
 ```shell
