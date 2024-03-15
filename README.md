@@ -7,7 +7,6 @@
 
 **Hyper-3DG pioneers a novel framework for text-to-3D generation that seamlessly integrates hypergraph learning with 3D Gaussian splatting, achieving high-fidelity and structurally coherent 3D models from textual descriptions without compromising computational efficiency.**
 
-**Hyper-3DG将超图学习与3D高斯飞溅无缝集成，提供了文本到3D生成的优化接口，在占用小显存的情况下，缓解了文生3D中的过度平滑、空间结构不连贯、Janus Problem等问题。**
 </div>
 
 
