@@ -19,22 +19,31 @@
 ## Video results
 #### A DSLR Photo of a bald eagle
 ![A DSLR Photo of a bald eagle](./contents/a_bald_eagle.gif)
+
 #### A DSLR Photo of a bloody lion with sharp tooth
 ![A DSLR Photo of a bloody lion with sharp tooth](./contents/a_bloody_lion_with_sharp_tooth.gif)
+
 #### A pair of green headphones
 ![A pair of green headphones](./contents/a_pair_of_green_headphones.gif)
+
 #### A cat wearing armor
 ![A cat wearing armor](./contents/a_cat_wearing_armor.gif)
+
 #### A DSLR photo of a handbag
 ![A DSLR photo of a handbag](./contents/a_handbag.gif)
+
 #### A DSLR photo of a pink luxury family SUV
 ![A DSLR photo of a pink luxury family SUV](./contents/a_pink_suv.gif)
+
 #### A sleek cyberpunk fighter jet adorned with neon lights and chrome plating, ultra realistic, 8k, HD
 ![A sleek cyberpunk fighter jet adorned with neon lights and chrome plating, ultra realistic, 8k, HD](./contents/a_sleek_fighter.gif)
+
 #### a steam engine train, high resolution
 ![a steam engine train, high resolution](./contents/a_steam_train.gif)
+
 #### An apple
 ![An apple](./contents/an_apple.gif)
+
 #### flamethrower, with fire, scifi, cyberpunk, photorealistic, 8K, HD
 ![flamethrower, with fire, scifi, cyberpunk, photorealistic, 8K, HD](./contents/a_flamethrower.gif)
 
