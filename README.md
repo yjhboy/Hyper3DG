@@ -4,7 +4,7 @@
 <!-- ##### Authors: Donglin Di, Jiahui Yang, Chaofan Luo, Zhou Xue, Wei Chen, Xun Yang, Yue Gao
 ##### Affiliations: Li Auto Space AI, School of Software (Tsinghua University), School of Information Science and Technology (University of Science and Technology of China), Harbin Institute of Technology -->
 <p align="center">
-<a href="https://arxiv.org/abs/2403.09236"><img src="https://img.shields.io/badge/Arxiv-2312.09147-B31B1B.svg"></a>
+<a href="https://arxiv.org/abs/2403.09236"><img src="https://img.shields.io/badge/Arxiv-2403.09236-B31B1B.svg"></a>
 </p>
 <!-- 
 #### [Full Paper](https://arxiv.org/abs/2403.09236) -->
