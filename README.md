@@ -57,19 +57,20 @@ code coming soon...
 ![flamethrower, with fire, scifi, cyberpunk, photorealistic, 8K, HD](./contents/a_packard_car.gif)
 
 #### A ceramic lion
-./contents/A_ceramic_lion.gif
+https://github.com/yjhboy/Hyper3DG/assets/101305907/0731db49-c0f8-4085-9bf0-ce5d6c6d3bb9
 
 #### a tulip
-./contents/a_tulip.gif
+https://github.com/yjhboy/Hyper3DG/assets/101305907/b57d9e54-030b-43c4-9bf4-398ffbac0fd9
 
 #### an astronaut in sand beach
-./contents/an_astronaut_in_sand_beach.gif
+https://github.com/yjhboy/Hyper3DG/assets/101305907/423b248f-c150-4e9b-a007-510e6feb90fc
 
 #### an ice cream
-./contents/an_ice_cream.gif
+https://github.com/yjhboy/Hyper3DG/assets/101305907/3048f859-04eb-4b87-91c6-66ab9766b6f1
 
 #### A beagle in a detectives outfit
-./contents/A_beagle_in_a_detectives_outfit.gif
+https://github.com/yjhboy/Hyper3DG/assets/101305907/d25f8f28-f1ea-4b2f-986b-2b4a68c95bc9
+
 
 
 
