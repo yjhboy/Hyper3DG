@@ -1,13 +1,11 @@
 <div align="center">
 
 # Hyper-3DG:<br> Text-to-3D Gaussian Generation via Hypergraph
-<!-- ##### Authors: Donglin Di, Jiahui Yang, Chaofan Luo, Zhou Xue, Wei Chen, Xun Yang, Yue Gao
-##### Affiliations: Li Auto Space AI, School of Software (Tsinghua University), School of Information Science and Technology (University of Science and Technology of China), Harbin Institute of Technology -->
+
 <p align="center">
 <a href="https://arxiv.org/abs/2403.09236"><img src="https://img.shields.io/badge/Arxiv-2403.09236-B31B1B.svg"></a>
 </p>
-<!-- 
-#### [Full Paper](https://arxiv.org/abs/2403.09236) -->
+
 
 **Hyper-3DG pioneers a novel framework for text-to-3D generation that seamlessly integrates hypergraph learning with 3D Gaussian splatting, achieving high-fidelity and structurally coherent 3D models from textual descriptions without compromising computational efficiency.**
 
@@ -57,7 +55,23 @@ code coming soon...
 
 #### A classic packard car
 ![flamethrower, with fire, scifi, cyberpunk, photorealistic, 8K, HD](./contents/a_packard_car.gif)
-<!-- <video src="https://github.com/yjhboy/Hyper3DG/contents/a_basketball.mp4" width="640" height="480" controls></video> -->
+
+#### A ceramic lion
+./contents/A_ceramic_lion.gif
+
+#### a tulip
+./contents/a_tulip.gif
+
+#### an astronaut in sand beach
+./contents/an_astronaut_in_sand_beach.gif
+
+#### an ice cream
+./contents/an_ice_cream.gif
+
+#### A beagle in a detectives outfit
+./contents/A_beagle_in_a_detectives_outfit.gif
+
+
 
 
 # Citation
