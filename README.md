@@ -9,7 +9,6 @@
 
 **Hyper-3DG pioneers a novel framework for text-to-3D generation that seamlessly integrates hypergraph learning with 3D Gaussian splatting, achieving high-fidelity and structurally coherent 3D models from textual descriptions without compromising computational efficiency.**
 
-code coming soon...
 
 </div>
 
@@ -19,8 +18,38 @@ code coming soon...
 ## Framework
 ![Hyper-3DG framework](contents/fig_framework.png)
 
-## Video results
-#### A DSLR Photo of a bald eagle
+## Video results 
+More Video Results [here](contents/Supplementary_material) & Prompts for Showing Videos [here](contents/Supplementary_material/comparison/prompts.txt) and [here](contents/Supplementary_material/user_study/user_study_prompts.txt)
+
+https://github.com/user-attachments/assets/83913e18-7eb7-4dda-94b7-275f8336f09c
+
+https://github.com/user-attachments/assets/13263ce7-d63a-4c35-888b-926edc589d94
+
+https://github.com/user-attachments/assets/03ba1ebe-3961-4b3e-b036-2bcb905d2e60
+
+https://github.com/user-attachments/assets/8f15a379-cfcc-47be-9c0b-1aeec79dd9fb
+
+https://github.com/user-attachments/assets/af150e12-b3a1-4569-8f8d-592d9f75d2cd
+
+https://github.com/user-attachments/assets/3d308045-f445-46a9-9565-9bf5d4184ba9
+
+
+# Citation
+```shell
+@misc{di2024hyper3dg,
+      title={Hyper-3DG: Text-to-3D Gaussian Generation via Hypergraph}, 
+      author={Donglin Di and Jiahui Yang and Chaofan Luo and Zhou Xue and Wei Chen and Xun Yang and Yue Gao},
+      year={2024},
+      eprint={2403.09236},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
+
+
+
+
+<!-- #### A DSLR Photo of a bald eagle
 ![A DSLR Photo of a bald eagle](./contents/a_bald_eagle.gif)
 
 #### A DSLR Photo of a bloody lion with sharp tooth
@@ -69,20 +98,9 @@ https://github.com/yjhboy/Hyper3DG/assets/101305907/423b248f-c150-4e9b-a007-510e
 https://github.com/yjhboy/Hyper3DG/assets/101305907/3048f859-04eb-4b87-91c6-66ab9766b6f1
 
 #### A beagle in a detectives outfit
-https://github.com/yjhboy/Hyper3DG/assets/101305907/d25f8f28-f1ea-4b2f-986b-2b4a68c95bc9
+https://github.com/yjhboy/Hyper3DG/assets/101305907/d25f8f28-f1ea-4b2f-986b-2b4a68c95bc9 -->
 
 
 
 
 
-# Citation
-```shell
-@misc{di2024hyper3dg,
-      title={Hyper-3DG: Text-to-3D Gaussian Generation via Hypergraph}, 
-      author={Donglin Di and Jiahui Yang and Chaofan Luo and Zhou Xue and Wei Chen and Xun Yang and Yue Gao},
-      year={2024},
-      eprint={2403.09236},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
-```
