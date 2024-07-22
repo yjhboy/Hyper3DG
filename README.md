@@ -34,6 +34,17 @@ https://github.com/user-attachments/assets/af150e12-b3a1-4569-8f8d-592d9f75d2cd
 https://github.com/user-attachments/assets/3d308045-f445-46a9-9565-9bf5d4184ba9
 
 
+
+## Acknowledgements
+
+We would like to express our gratitude to the authors of the following works, which have greatly influenced our project:
+
+- [LucidDreamer](https://github.com/EnVision-Research/LucidDreamer)
+- [Shap-E](https://github.com/openai/shap-e) & [Point-E](https://github.com/openai/point-e)
+- [3D Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting)
+- [Threestudio](https://github.com/threestudio-project/threestudio)
+
+
 # Citation
 ```shell
 @misc{di2024hyper3dg,
