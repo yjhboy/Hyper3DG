@@ -27,7 +27,7 @@ https://github.com/user-attachments/assets/13263ce7-d63a-4c35-888b-926edc589d94
 
 https://github.com/user-attachments/assets/03ba1ebe-3961-4b3e-b036-2bcb905d2e60
 
-https://github.com/user-attachments/assets/8f15a379-cfcc-47be-9c0b-1aeec79dd9fb
+https://github.com/user-attachments/assets/63526bfa-874d-441c-b651-3496ac111960
 
 https://github.com/user-attachments/assets/af150e12-b3a1-4569-8f8d-592d9f75d2cd
 
@@ -68,6 +68,7 @@ We would like to express our gratitude to the authors of the following works, wh
 
 #### A pair of green headphones
 ![A pair of green headphones](./contents/a_pair_of_green_headphones.gif)
+<!-- https://github.com/user-attachments/assets/8f15a379-cfcc-47be-9c0b-1aeec79dd9fb -->
 
 #### A cat wearing armor
 ![A cat wearing armor](./contents/a_cat_wearing_armor.gif)
