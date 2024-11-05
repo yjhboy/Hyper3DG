@@ -5,9 +5,9 @@
 
 <p align="center">
 <a href="https://arxiv.org/abs/2403.09236"><img src="https://img.shields.io/badge/Arxiv-2403.09236-B31B1B.svg"></a>
-  **Accepted by IJCV**
 </p>
 
+**Accepted by IJCV**
 
 **Hyper-3DG pioneers a novel framework for text-to-3D generation that seamlessly integrates hypergraph learning with 3D Gaussian splatting, achieving high-fidelity and structurally coherent 3D models from textual descriptions without compromising computational efficiency.**
 
