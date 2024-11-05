@@ -5,7 +5,7 @@
 
 <p align="center">
 <a href="https://arxiv.org/abs/2403.09236"><img src="https://img.shields.io/badge/Arxiv-2403.09236-B31B1B.svg"></a>
-<span style="color:red">  Accepted by IJCV</span>
+<a >  Accepted by IJCV </a>
 </p>
 
 
