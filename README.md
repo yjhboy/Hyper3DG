@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<a href="content/hyper-3dg.pdf">Paper</a>
+<a href="contents/hyper-3dg.pdf">Paper</a>
 </p>
 
 <font color=#FF0000>Accepted by IJCV</font>
